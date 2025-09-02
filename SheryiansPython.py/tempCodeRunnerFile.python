@@ -1,0 +1,10 @@
+'''a = "Sheryians"
+
+for i in range(len(a)):
+    print(a[i])'''
+
+#2nd method
+a = "SAHERYANCE"
+for i in a:
+
+    print(i)
