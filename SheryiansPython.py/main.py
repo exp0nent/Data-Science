@@ -295,7 +295,7 @@ for i in range(1, n+1):
     fact = fact * i
 print(f"your Factorial is {fact}")'''
 
-# 7. Print the all even and odd number in a range separately.
+# 7. Print the sum of all even and odd number in a range separately.
 '''n = int(input("Tell your number:- "))
 even = 0
 odd = 0
