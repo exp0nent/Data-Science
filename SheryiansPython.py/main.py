@@ -1,4 +1,4 @@
-'''print("Hello Aatir")
+'''print("Hello mr")
 
 age = 12 # age= is a variables and we store 12 in that
         # We can not use number in the starting of declearing variables in the python.
